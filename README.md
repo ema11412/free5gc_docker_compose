@@ -36,7 +36,7 @@ Puede ver los requisitos recomendados en la documentación oficial
   - kernel 5.0.0-23-generic
   
 - **Hardware utilizado**
-  - CPI: AMD Ryzen 7 2700X
+  - CPU: AMD Ryzen 7 2700X
   - RAM: 16GB
   - HDD: 180GB
   
@@ -172,7 +172,8 @@ docker logs smf
 - https://github.com/open5gs/nextepc/tree/master/docker
 - https://github.com/abousselmi/docker-free5gc
 - https://github.com/free5gc/free5gc-compose/
- 
+- https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4
+- https://arxiv.org/abs/2006.10409
  
 ## Anexos
  
